@@ -1,0 +1,15 @@
+.title{
+    text-align: center;
+    color: white;
+    font-size:45px;
+    font-weight: bolder;
+    -webkit-text-stroke: 0.5    px;
+    -webkit-text-stroke-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.image-style{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 12%;
+}
