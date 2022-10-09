@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/laxar-note-taking-app/static/css/main.a4ba5141.css",
+    "main.js": "/laxar-note-taking-app/static/js/main.9130f441.js",
+    "index.html": "/laxar-note-taking-app/index.html",
+    "main.a4ba5141.css.map": "/laxar-note-taking-app/static/css/main.a4ba5141.css.map",
+    "main.9130f441.js.map": "/laxar-note-taking-app/static/js/main.9130f441.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4ba5141.css",
+    "static/js/main.9130f441.js"
+  ]
+}
