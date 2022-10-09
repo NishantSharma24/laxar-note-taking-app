@@ -1,0 +1,44 @@
+.note-title{
+    margin: 1px 1px 1px 1px;
+    padding: 2px 2px 2px 2px;
+    color: rgb(255, 255, 255);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.note-description{
+    display: block;
+    margin: 1px 1px 1px 1px;
+    padding: 2px 2px 2px 2px;
+    color: white;
+    font-size:small ;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.note{
+    /* display: block; */
+    border-radius: 48px;
+    margin: 6px 0px 0px 29px;
+    padding: 20px 20px 20px 20px;
+    color: rgb(0, 0, 0);
+    background-color:#3b3a4d;
+    width: 300px;
+}
+.notes{
+    background-color: #1f1d2c;
+    width: 405px;
+    border-radius: 15px;
+    margin: 20px 20px 20px 20px;
+    padding: 20px 20px 20px 20px;
+}
+.notes-heading{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+.note-enter{
+    background-color: white;
+    border: 1px solid black;
+    padding: 17px 17px 17px 17px;
+    border-radius: 15px;
+    width: 298px;
+    margin-left: 57px;
+}
